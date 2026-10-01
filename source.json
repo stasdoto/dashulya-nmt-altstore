@@ -1,0 +1,41 @@
+{
+  "name": "Дашуля НМТ",
+  "identifier": "com.stasdoto.dashulyanmt.source",
+  "sourceURL": "https://raw.githubusercontent.com/stasdoto/dashulya-nmt-altstore/main/source.json",
+  "subtitle": "Спокойная подготовка к НМТ",
+  "description": "Источник AltStore для приложения «Дашуля НМТ». Специально для Дашули от stasdoto.",
+  "iconURL": "https://raw.githubusercontent.com/stasdoto/dashulya-nmt-altstore/main/icon.png",
+  "website": "https://github.com/stasdoto/dashulya-nmt-altstore",
+  "tintColor": "#9BBEFF",
+  "apps": [
+    {
+      "name": "Дашуля НМТ",
+      "bundleIdentifier": "com.stasdoto.dashulyanmt",
+      "developerName": "stasdoto",
+      "subtitle": "Спокойная подготовка к НМТ",
+      "localizedDescription": "Реальные тесты НМТ и архив ЗНО по пяти предметам, темы, разминки и симуляция с таймером. Программа подготовки по неделям до даты НМТ, мягкие напоминания, ранги-сакуры и виджеты. Всё хранится на телефоне и работает без интернета.",
+      "iconURL": "https://raw.githubusercontent.com/stasdoto/dashulya-nmt-altstore/main/icon.png",
+      "tintColor": "#9BBEFF",
+      "category": "education",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "1.0",
+          "buildVersion": "2",
+          "date": "2026-10-01",
+          "localizedDescription": "Версия 1.0: заставка и лепестки сакуры, мягкие анимации и свои вибрации, награды со вспышкой лепестков, виджеты «План и НМТ» и «Серия или ранг», новая иконка. База — 3869 заданий НМТ 2022–2026 и ЗНО 2016–2021, 90 видео-уроков.",
+          "downloadURL": "https://github.com/stasdoto/dashulya-nmt-altstore/releases/download/v1.0/DashulyaNMT.ipa",
+          "size": 76270542,
+          "minOSVersion": "26.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [
+          "com.apple.security.application-groups"
+        ],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
